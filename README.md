@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Prakash Singh.
 - 👀 I’m interested in software Development and machine learning.
-- 🌱 I’m currently learning Competitive Coding and backend for website development.
+- 🌱 I’m currently working as a Product Developer.
 - 💞️ I’m looking to collaborate on Software development project and Machine learning project.
 
 <!---
