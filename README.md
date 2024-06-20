@@ -84,10 +84,10 @@
 </p>
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish6303&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish6303&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height = "200"
 
   <a href="https://github-readme-stats.vercel.app/api?username=ashish6303=tokyonight"> 
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ashish6303&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ashish6303&count_private=true&show_icons=true&theme=tokyonight" height = "200" />
 </a>
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=Chaitu785=tokyonight"> 
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Chaitu785&count_private=true&show_icons=true&theme=tokyonight" />
