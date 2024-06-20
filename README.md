@@ -80,14 +80,14 @@
 <h2>:fire: My Stats :</h2>
 <p align="center">
   <br>
-  <img src="https://streak-stats.demolab.com?user=Chaitu785&theme=dark&hide_border=true&sideNums=15DD00&stroke=00DD1E&background=000000)](https://git.io/streak-stats"/>
+  <img src="https://streak-stats.demolab.com?user=ashish6303&theme=dark&hide_border=true&sideNums=15DD00&stroke=00DD1E&background=000000)](https://git.io/streak-stats"/>
 </p>
 <br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish6303&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" 
 
   <a href="https://github-readme-stats.vercel.app/api?username=ashish6303=tokyonight"> 
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Chaitu785&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ashish6303&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=Chaitu785=tokyonight"> 
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Chaitu785&count_private=true&show_icons=true&theme=tokyonight" />
