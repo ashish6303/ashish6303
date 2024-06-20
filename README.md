@@ -27,15 +27,23 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://twitter.com/c_h_a_i_2">
+  <a href="https://leetcode.com/u/ashish6303/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"/>
+  </a>
+
+  <a href="https://x.com/Singhas69664735">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
+   <a href="https://www.youtube.com/channel/UChhk4bPtRKRzgHjrAf213Xw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   
   <a href="https://discord.com/channels/952987712116379710/952987712649068565">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   
-   <a href="https://www.instagram.com/_joy_4_u/">
+   <a href="https://www.instagram.com/ashish_singh_rajput_8/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
