@@ -10,9 +10,9 @@
 
 <hr>
 
-<!-- <h2> <a href="https://chaitu785.github.io/Myportfolio.github.io/" target="_blanck"> Visit my Portfolio.. !</a> --> </h2><br>
+<!-- <h2> <a href="https://chaitu785.github.io/Myportfolio.github.io/" target="_blanck"> Visit my Portfolio.. !</a>  </h2><br>
 <br>
-
+--> 
 <h2>My Resume</h2>
 
 <a href="https://drive.google.com/file/d/1__bIZkorSCThkCVHUoEuTwSC6mVxAHK0/view?usp=sharing">Click to Download Resume</a>
