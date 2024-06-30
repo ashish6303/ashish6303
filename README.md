@@ -16,7 +16,7 @@
 
 
 
-<a href="https://drive.google.com/file/d/19S0I_ZtxzTAin7oykZzNBrop0HSarL-n/view?usp=share_link">Click to Download Resume</a>
+<a href="https://drive.google.com/file/d/1__bIZkorSCThkCVHUoEuTwSC6mVxAHK0/view?usp=sharing">Click to Download Resume</a>
 
 
 
